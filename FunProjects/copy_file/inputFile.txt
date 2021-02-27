@@ -1,0 +1,5 @@
+This is already some content on
+file 1
+
+new content:
+
